@@ -1,0 +1,19 @@
+body{
+    background:darkgray;
+}
+.hide{
+    display:none;
+}
+.car{
+    width: 50px;
+    height: 100px;
+    background:transparent url('./image/starSheep.png') center /cover no-repeat;
+}
+.start{
+    cursor:pointer;
+    padding:10px 15px;
+    background:lime;
+    color:white;
+    margin:auto 0;
+    width:10%;
+}
